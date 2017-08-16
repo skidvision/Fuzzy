@@ -1,6 +1,3 @@
 (* ::Package:: *)
 
-(* ::Package:: *)
- 
-(* initialization file *)
-Needs["Fuzzy`"]
+Get["Fuzzy`Fuzzy`"]
