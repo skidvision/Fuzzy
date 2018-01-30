@@ -1,4 +1,4 @@
-Paclet[
+PacletSite[Paclet[
   Name -> "Fuzzy",
   Description -> "Simple fuzzy logic operations for simple folk.",
   Creator -> "Flip Phillips",
@@ -11,4 +11,4 @@ Paclet[
    { "Application", Context -> "Fuzzy`" }
   },
   Location -> "https://github.com/skidvision/Fuzzy/releases/download/v1.0/"
-]
+]]
